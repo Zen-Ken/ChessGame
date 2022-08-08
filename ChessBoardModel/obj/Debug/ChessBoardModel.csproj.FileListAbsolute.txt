@@ -1,0 +1,18 @@
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

@@ -1,0 +1,33 @@
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\Desktop\New folder\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb

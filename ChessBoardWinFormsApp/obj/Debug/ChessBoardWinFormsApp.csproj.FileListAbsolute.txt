@@ -1,0 +1,14 @@
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\bin\Debug\ChessBoardWinFormsApp.exe.config
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\bin\Debug\ChessBoardWinFormsApp.exe
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\bin\Debug\ChessBoardWinFormsApp.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\bin\Debug\ChessBoardModel.dll
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.Form1.resources
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.Properties.Resources.resources
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.csproj.CopyComplete
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.exe
+C:\Users\IT\source\repos\ChessBoardWinFormsApp\ChessBoardWinFormsApp\obj\Debug\ChessBoardWinFormsApp.pdb
